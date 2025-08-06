@@ -11,7 +11,7 @@ The database is designed with:
 The analysis helps answer business questions like-
 - Which customers generate the most revenue?
 - Which products are top-selling?
-- What are the monthly/quarterly sales trends?
+- What are the monthly/Yearly sales trends?
 
   ##  Tools & Technologies
 - **Microsoft SQL Server** 
@@ -29,7 +29,7 @@ The analysis helps answer business questions like-
 1. Create a new database:
    ```sql
    CREATE DATABASE DataWarehouseAnalytics;
-Run - Creating_dataWarehouse.sql → Create datbase and load csv data into tables.
+Run - Creating_dataWarehouse.sql → To create database and load csv data into tables.
 
 Example Analysis Queries
 
@@ -80,6 +80,7 @@ ORDER BY total_sold_items DESC;
 
 
 Insights & Outcomes
+
 From this analysis, stakeholders can:
 - Identify best-performing products
 - Recognize high-value customers
