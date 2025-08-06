@@ -80,7 +80,7 @@ ORDER BY total_sold_items DESC;
 
 
 Insights & Outcomes
-- From this analysis, stakeholders can:
+From this analysis, stakeholders can:
 - Identify best-performing products
 - Recognize high-value customers
 - Track sales growth trends
